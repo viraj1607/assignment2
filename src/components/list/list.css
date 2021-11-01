@@ -1,0 +1,23 @@
+.list-container ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  background-color: lightblue;
+  width: 80%;
+  margin: 50px auto;
+  /* padding: 10px; */
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.list-container ul li {
+  margin: 10px;
+  font-size: 25px;
+  width: 500px;
+  text-align: center;
+  padding: 10px;
+  background-color: azure;
+  border: 2px solid black;
+  border-radius: 10px;
+}
